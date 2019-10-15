@@ -1,0 +1,2 @@
+1."https://www.youtube.com/playlist?list=PLIHume2cwmHcfOVGqekxB-Q4z7gHfm7Qx" // deðiþkenlerin,aritmetik iþlemlerin ve fonksiyonlarýn öðrenimi için
+2."http://www.oguzhantas.com/javascript/297-javascript-ile-basit-hesaplama-islemleri.html" // id1, id2, id3, id4 leri script kodunun içine çekmek için
